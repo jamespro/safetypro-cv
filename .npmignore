@@ -1,5 +1,5 @@
 # Ignore files and directories that should not be published to npm
-node_modules
+# node_modules
 package-lock.json
 yarn.lock
 *.log
