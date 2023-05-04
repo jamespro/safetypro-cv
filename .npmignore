@@ -17,16 +17,16 @@ yarn.lock
 
 # Ignore build and development files
 coverage/
-# dist/
-# build/
-# *.tsbuildinfo
-# *.env
-# *.map
-# *.test.*
-# *.config.js
-# *.ts
-# *.js.map
-# *.d.ts
+dist/
+build/
+*.tsbuildinfo
+*.env
+*.map
+*.test.*
+*.config.js
+*.ts
+*.js.map
+*.d.ts
 
 # Ignore files related to editors or IDEs
 .vscode/
