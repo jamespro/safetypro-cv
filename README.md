@@ -30,3 +30,4 @@ Other possible updates may include:
 - Open text input to check for custom keywords
 - Overlay rectangles over objects, using CSS
 - Layout improvements
+- Custom vision (supply sample images to train the model, focused on types of road signs)
